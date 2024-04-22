@@ -1,0 +1,5 @@
+ungrouped:
+  hosts:
+    ansible_connection: 13.40.78.4
+    ansible_python_interpreter: /usr/bin/python3
+    ansible_user: ubuntu
